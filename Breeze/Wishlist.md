@@ -8,8 +8,8 @@ Monitor / Analyse:
 * Heatmap colormap-switch: sometimes 100 % should be **red**, sometimes **green** to indicate a good or a bad information [not in Influence]
 
 Status-Log:
-* Save view / filter settings in Section **Status Log**
-* Export feature in Status Log
+* Save view / filter settings in Section **Status Log** [not in Influence]
+* Export feature in Status Log [not in Influence]
 
 Report-Section:
 * Create a new report template out of a concrete report
@@ -28,6 +28,6 @@ Report-Section:
 	* currently in beta modus 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDM0MDgwMSwxOTE0OTk4ODgwLC0yMD
-Q3NzEzOTIxXX0=
+eyJoaXN0b3J5IjpbNDYxMDkyOTIxLDE5MTQ5OTg4ODAsLTIwND
+c3MTM5MjFdfQ==
 -->
