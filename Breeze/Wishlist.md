@@ -3,7 +3,7 @@
 
 ## Features:
 Monitor / Analyse:
-* Save widgets to any kind of a _bucket_ to reuse them in reports and other dashboards section (Monitor, Analyse)
+* Save widgets to any kind of a _bucket_ to reuse them in reports and other dashboards section (Monitor, Analyse) [not in Influence]
 * Add **Data Studio Link** to widgets in Monitor section
 * Heatmap colormap-switch: sometimes 100 % should be **red**, sometimes **green** to indicate a good or a bad information
 
@@ -28,5 +28,5 @@ Report-Section:
 	* currently in beta modus 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDc3MTM5MjFdfQ==
+eyJoaXN0b3J5IjpbMTkxNDk5ODg4MCwtMjA0NzcxMzkyMV19
 -->
