@@ -12,9 +12,9 @@ Status-Log:
 * Export feature in Status Log [not in Influence]
 
 Report-Section:
-* Create a new report template out of a concrete report
-* Duplicate templates
-* No sorting / grouping of the reports possible? 
+* Create a new report template out of a concrete report [not in Influence]
+* Duplicate templates [not in Influence]
+* No sorting / grouping of the reports possible? [not in Influence] 
 
 ## Bugs:
 * "Not saved"-dialog appears by editing report template on details and press "Done"
@@ -28,6 +28,6 @@ Report-Section:
 	* currently in beta modus 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxMDkyOTIxLDE5MTQ5OTg4ODAsLTIwND
-c3MTM5MjFdfQ==
+eyJoaXN0b3J5IjpbMTcyMzA2NTcyOCwxOTE0OTk4ODgwLC0yMD
+Q3NzEzOTIxXX0=
 -->
